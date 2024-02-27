@@ -63,20 +63,3 @@ pip install selenium
 cd selenium-101-assignment
 ```
 
-2. Run the test scripts using a test runner or directly through the command line.
-
-```bash
-python test_scenarios.py
-```
-
-## Contributing
-
-Contributions to improve this project are welcome! Please fork the repository, make your changes, and submit a pull request with a clear description of your changes.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to customize this README.md file further with additional information, such as troubleshooting tips, environment setup instructions, or any other details specific to your project requirements.
